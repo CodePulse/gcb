@@ -89,7 +89,7 @@ input.input100 {
   top: -2px;
   left: -2px;
   pointer-events: none;
-  border: 2px solid #4272d7;
+  border: 2px solid #fff;
   border-radius: 25px;
   visibility: hidden;
   opacity: 0;
@@ -484,6 +484,11 @@ input.input100 {
   .respon2 {
     display: none;
   }
+  .logo-section img {
+    width: 100%;
+    height: auto;
+  }
+
 
 }
 
